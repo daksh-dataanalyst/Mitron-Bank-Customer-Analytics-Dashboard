@@ -2,7 +2,7 @@
 
 A data analyst portfolio project analyzing customer demographics, income utilization, and spending behavior for a fictional bank ("Mitron Bank") piloting a new credit card line, built in Excel.
 
-💼 **[LinkedIn Post](#) — link**
+💼 **[LinkedIn Post](#) — https://lnkd.in/p/gTGWqWxd**
 
 ---
 
